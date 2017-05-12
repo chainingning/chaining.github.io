@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DarrenChai's Pages
 
 You can use the [editor on GitHub](https://github.com/darrenchai/darrenchai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
